@@ -25,3 +25,8 @@ body {
 	max-width: 600px;
 	font-weight: 500;
 }
+
+.imgbox{
+    max-width: 600px;
+    width:80%;
+}
